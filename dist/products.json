@@ -1,0 +1,616 @@
+[
+  {
+    "slug": "ara-290-15mg",
+    "name": "ARA-290 15mg",
+    "price": 95.0,
+    "image": "assets/ara-290-15mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/ara-290-15mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac2939c93b442b82837428e_ARA-290%2015mg%20no%20Back.png",
+    "categories": [],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "bpc-157-10mg",
+    "name": "BPC-157 10mg",
+    "price": 70.0,
+    "image": "assets/bpc-157-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/bpc-157-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac294aeb9c87144398b900e_BPC-157%2010mg%20No%20Back.png",
+    "categories": [
+      "Repair"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "bpc-157-500mgc-capsules",
+    "name": "BPC-157 500mgc Capsules",
+    "price": 138.0,
+    "image": "assets/bpc-157-500mgc-capsules.webp",
+    "url": "https://www.bkgperformancepartners.com/product/bpc-157-500mgc-capsules",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac284fbd46e0009ca385816_BPC-157%20Caps%20No%20Back.png",
+    "categories": [
+      "Repair"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "cagrilintide-5mg",
+    "name": "Cagrilintide 10mg",
+    "price": 94.0,
+    "image": "assets/cagrilintide-5mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/cagrilintide-5mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac2883338ec69acfa77e22d_Cagrilintide%2010mg%20No%20Back.png",
+    "categories": [
+      "Reset"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "cjc-1295-no-dac-5mg",
+    "name": "CJC-1295 (No DAC) 5mg",
+    "price": 44.0,
+    "image": "assets/cjc-1295-no-dac-5mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/cjc-1295-no-dac-5mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac2880f9b6bc7fcc810b7bc_CJC-IPA%205-5mg%20No%20Back.png",
+    "categories": [
+      "Amplify"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "cjc-1295-no-dac-ipamorelin-5-5mg",
+    "name": "CJC-1295 No DAC/Ipamorelin 5/5mg",
+    "price": 65.0,
+    "image": "assets/cjc-1295-no-dac-ipamorelin-5-5mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/cjc-1295-no-dac-ipamorelin-5-5mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac2880f9b6bc7fcc810b7bc_CJC-IPA%205-5mg%20No%20Back.png",
+    "categories": [
+      "Amplify"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "epithalon-20mg",
+    "name": "Epithalon 50mg",
+    "price": 150.0,
+    "image": "assets/epithalon-20mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/epithalon-20mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac289b375d3b9e2e386b5ff_Epithalon%2050mg%20No%20Back.png",
+    "categories": [
+      "Renew"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "ghk-cu-50mg",
+    "name": "GHK-Cu 100mg",
+    "price": 75.0,
+    "image": "assets/ghk-cu-50mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/ghk-cu-50mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac289e1b3075c803e5aa3d6_GHK-CU%20100mg%20No%20Back.png",
+    "categories": [
+      "Refine"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "bpc-157-tb-500-ghk-cu-10-10-50mg-glow",
+    "name": "GLOW Blend BPC-157/TB-500/GHK-Cu  10/10/50mg",
+    "price": 140.0,
+    "image": "assets/bpc-157-tb-500-ghk-cu-10-10-50mg-glow.webp",
+    "url": "https://www.bkgperformancepartners.com/product/bpc-157-tb-500-ghk-cu-10-10-50mg-glow",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac289c902f7d9d8f9003257_GLOW%20Blend%20No%20Background.png",
+    "categories": [
+      "Restructure"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "ipamorelin-10mg",
+    "name": "Ipamorelin 10mg",
+    "price": 75.0,
+    "image": "assets/ipamorelin-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/ipamorelin-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28c259465518f1275be40_Ipamorelin%2010mg%20No%20Back.png",
+    "categories": [
+      "Amplify"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "ghk-cu-bpc-157-tb-500-kpv-10-10-10-50mg-klow",
+    "name": "KLOW Blend GHK-Cu/BPC-157/TB-500/KPV  10/10/10/50mg",
+    "price": 175.0,
+    "image": "assets/ghk-cu-bpc-157-tb-500-kpv-10-10-10-50mg-klow.webp",
+    "url": "https://www.bkgperformancepartners.com/product/ghk-cu-bpc-157-tb-500-kpv-10-10-10-50mg-klow",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28bec2b70c7dd1746f270_KLOW%20Blend%20No%20Back.png",
+    "categories": [
+      "Restructure"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "kpv-10mg",
+    "name": "KPV 10mg",
+    "price": 50.0,
+    "image": "assets/kpv-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/kpv-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28b8c229fac8fa4383d3f_KPV%2010mg%20No%20Back.png",
+    "categories": [
+      "Repair"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "melanotan-1-10mg",
+    "name": "Melanotan I 10mg",
+    "price": 50.0,
+    "image": "assets/melanotan-1-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/melanotan-1-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28bb7505bd22848480ae0_Melanotan%20I%2010mg%20No%20Back.png",
+    "categories": [
+      "Protect"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "melanotan-2-10mg",
+    "name": "Melanotan II 10mg",
+    "price": 50.0,
+    "image": "assets/melanotan-2-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/melanotan-2-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28bd32ed40eec5647e725_Melanotan%202%2010mg%20No%20Back.png",
+    "categories": [
+      "Protect"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "metabolic-blend-nad-100mg-mots-c-10mg-5-amino-1mq-10mg",
+    "name": "Metabolic Blend NAD+ 100mg/MOTS-C 10mg/ 5 Amino 1MQ 10mg",
+    "price": 95.0,
+    "image": "assets/metabolic-blend-nad-100mg-mots-c-10mg-5-amino-1mq-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/metabolic-blend-nad-100mg-mots-c-10mg-5-amino-1mq-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28d5dbebcfc6505839dd2_Metabolic%20Blend%20No%20Back.png",
+    "categories": [],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "mots-c-10mg",
+    "name": "MOTS-C 10mg",
+    "price": 60.0,
+    "image": "assets/mots-c-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/mots-c-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28d9635f8231d961f19a9_MOTS-c%2010mg%20No%20Back.png",
+    "categories": [
+      "Activate"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "mots-c-20mg",
+    "name": "MOTS-C 20mg",
+    "price": 90.0,
+    "image": "assets/mots-c-20mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/mots-c-20mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28d498bad76d20f63980f_MOTS-c%2020mg%20No%20Back.png",
+    "categories": [
+      "Activate"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "nad-500mg",
+    "name": "NAD+ 500mg",
+    "price": 110.0,
+    "image": "assets/nad-500mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/nad-500mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28dcacb441c0deffdd612_NAD%20%2B%20500mg%20No%20Back.png",
+    "categories": [
+      "Renew"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "nasal-spray-kit",
+    "name": "Nasal Spray Kit",
+    "price": 25.0,
+    "image": "assets/nasal-spray-kit.webp",
+    "url": "https://www.bkgperformancepartners.com/product/nasal-spray-kit",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac294c4bebcfc6505842c38_Nasal%20Spray%20Kit%20No%20Back.png",
+    "categories": [
+      "Optimize"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "oxytocin-5mg",
+    "name": "Oxytocin 10mg",
+    "price": 59.0,
+    "image": "assets/oxytocin-5mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/oxytocin-5mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac283f01f353525a3bdc8b6_Oxytocin%2010mg%20no%20back.png",
+    "categories": [
+      "Optimize"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "pt-141-10mg",
+    "name": "PT-141 10mg",
+    "price": 60.0,
+    "image": "assets/pt-141-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/pt-141-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28daa0540c28c8cbc3e2d_PT-141%2010mg%20No%20Back.png",
+    "categories": [
+      "Activate"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "research-water-10ml",
+    "name": "Research Water 10ml",
+    "price": 15.0,
+    "image": "assets/research-water-10ml.webp",
+    "url": "https://www.bkgperformancepartners.com/product/research-water-10ml",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28f9671a834fb82e7f909_Research%20Water%2010mg%20No%20Back.png",
+    "categories": [],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "water-10ml",
+    "name": "Research Water 30ml",
+    "price": 25.0,
+    "image": "assets/water-10ml.webp",
+    "url": "https://www.bkgperformancepartners.com/product/water-10ml",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac290607889adb27e03a748_Research%20Water%2030ml%20No%20Back.png",
+    "categories": [
+      "Base"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "rta-glp-3-10mg",
+    "name": "RTA GLP-3 10mg",
+    "price": 125.0,
+    "image": "assets/rta-glp-3-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/rta-glp-3-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac280ddfac04185aa64cdd5_RTA%20GLP-3%2010mg%20No%20Back.png",
+    "categories": [
+      "Reset"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "rta-glp-3-30mg-t04t4",
+    "name": "RTA GLP-3 30mg",
+    "price": 275.0,
+    "image": "assets/rta-glp-3-30mg-t04t4.webp",
+    "url": "https://www.bkgperformancepartners.com/product/rta-glp-3-30mg-t04t4",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28d771b3e16491289c9a5_RTA%20GLP-3%2030mg%20No%20Back.png",
+    "categories": [
+      "Reset"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "selank-30mg",
+    "name": "Selank 10mg",
+    "price": 65.0,
+    "image": "assets/selank-30mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/selank-30mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac290483aeaee964eb651c7_Selank%2010mg%20No%20Back.png",
+    "categories": [
+      "Calm"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "sermorelin-10mg",
+    "name": "Sermorelin 10mg",
+    "price": 96.0,
+    "image": "assets/sermorelin-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/sermorelin-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac286f1bbe68b6c3ba7b100_Sermorelin%2010mg%20No%20Back.png",
+    "categories": [
+      "Optimize"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "sermorelin-5mg",
+    "name": "Sermorelin 5mg",
+    "price": 66.0,
+    "image": "assets/sermorelin-5mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/sermorelin-5mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28709f4f71e27c25fc726_Sermorelin%205mg%20No%20Back.png",
+    "categories": [
+      "Optimize"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "slu-pp-332-500mcg-capsules",
+    "name": "SLU-PP-332 500mcg Capsules",
+    "price": 143.0,
+    "image": "assets/slu-pp-332-500mcg-capsules.webp",
+    "url": "https://www.bkgperformancepartners.com/product/slu-pp-332-500mcg-capsules",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac292a7ba0bd3fffaf9caf0_SLUPP%20332%20Caps%20No%20Back.png",
+    "categories": [
+      "Repair"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "ss-31-10mg",
+    "name": "SS-31 10mg",
+    "price": 55.0,
+    "image": "assets/ss-31-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/ss-31-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac290cbf4f71e27c2608519_SS-31%2010mg%20No%20Back.png",
+    "categories": [
+      "Activate"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "ss-31-50mg",
+    "name": "SS-31 50mg",
+    "price": 75.0,
+    "image": "assets/ss-31-50mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/ss-31-50mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac290e52435ff11b5ea56ae_SS-31%2050mg%20No%20Back.png",
+    "categories": [
+      "Activate"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "tb-500-10mg",
+    "name": "TB-500 10mg",
+    "price": 90.0,
+    "image": "assets/tb-500-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/tb-500-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28fba5f590dd7a87f2734_TB-500%2010mg%20No%20Back.png",
+    "categories": [
+      "Repair"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "tesamorelin-10mg",
+    "name": "Tesamorelin 10mg",
+    "price": 85.0,
+    "image": "assets/tesamorelin-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/tesamorelin-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac292ece850d3ee1836cf0a_Tesamorelin%2010mg.png",
+    "categories": [
+      "Optimize"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "tesamorelin-ipamorelin-10-2mg",
+    "name": "Tesamorelin/Ipamorelin 10/2mg",
+    "price": 99.0,
+    "image": "assets/tesamorelin-ipamorelin-10-2mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/tesamorelin-ipamorelin-10-2mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac2928c0d546bde924a0b0e_Tesa-%20Ipa%2010-2mg%20No%20Back.png",
+    "categories": [
+      "Optimize"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "tesofensine-500mcg-capsules",
+    "name": "Tesofensine 500mcg Capsules",
+    "price": 149.0,
+    "image": "assets/tesofensine-500mcg-capsules.webp",
+    "url": "https://www.bkgperformancepartners.com/product/tesofensine-500mcg-capsules",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28fdea17f672b4dc31447_Tesofensine%20500mcg%20No%20Back.png",
+    "categories": [
+      "Reset"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "thymosin-alpha-1-10mg",
+    "name": "Thymosin Alpha 1 10mg",
+    "price": 85.0,
+    "image": "assets/thymosin-alpha-1-10mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/thymosin-alpha-1-10mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac2925f6859e64eea8b8468_TA-1%2010mg%20No%20Bck.png",
+    "categories": [],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "tirzepatide-10mg-glp-1",
+    "name": "TZ GLP-2 10mg",
+    "price": 99.0,
+    "image": "assets/tirzepatide-10mg-glp-1.webp",
+    "url": "https://www.bkgperformancepartners.com/product/tirzepatide-10mg-glp-1",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac292bc92ef515c1570b5ce_TZ%20GLP-2%2010mg%20No%20Back.png",
+    "categories": [
+      "Reset"
+    ],
+    "details": [],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "tz-glp-2-60mg",
+    "name": "TZ GLP-2 60mg",
+    "price": 290.0,
+    "image": "assets/tz-glp-2-60mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/tz-glp-2-60mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac292733b58576098ee454a_TZ%20GLP-2%2060mg%20No%20Back.png",
+    "categories": [
+      "Reset"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  },
+  {
+    "slug": "bpc-157-tb-500-5-5mg",
+    "name": "Wolverine Blend BPC-157/TB-500 5/5mg",
+    "price": 85.0,
+    "image": "assets/bpc-157-tb-500-5-5mg.webp",
+    "url": "https://www.bkgperformancepartners.com/product/bpc-157-tb-500-5-5mg",
+    "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac292d138ec69acfa78c9b9_Wolverine%20No%20Back.png",
+    "categories": [
+      "Restructure"
+    ],
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-10-17"
+  }
+]
