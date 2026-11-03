@@ -120,18 +120,18 @@ body:not(.js-motion) .walk-steps,body:not(.js-motion) .walk-skip{display:none}
 .hero-media:before{content:'';position:absolute;left:-5%;top:16%;bottom:16%;width:38%;border-radius:32px;background:#f0c4c7;opacity:.55}
 .hero-media img{position:relative;width:100%;height:100%;object-fit:cover;-webkit-mask-image:linear-gradient(90deg,transparent 0,#000 38%);mask-image:linear-gradient(90deg,transparent 0,#000 38%)}
 .hero-media:after{content:'';position:absolute;left:14%;top:11%;right:5%;bottom:11%;border:1px solid #c4919399;border-radius:28px;pointer-events:none}
-.hero-media.portrait img{object-position:center 30%}
+@media(min-width:801px){.subhero.has-media:has(.portrait){min-height:max(620px,52vw)}.hero-media.portrait{width:34.67%;top:50%;bottom:auto;transform:translateY(-50%);aspect-ratio:900/1350}.hero-media.portrait img{display:block;height:100%;object-fit:fill}}
 /* collection: flowing arc of vials */
-.vial-arc{position:absolute;top:0;bottom:0;right:-7%;width:60%;z-index:1;pointer-events:none}
+.vial-arc{position:absolute;top:0;bottom:0;right:0;width:56%;z-index:1;pointer-events:none}
 .vial-arc:before{content:'';position:absolute;inset:6% 4% 6% 10%;background:radial-gradient(closest-side,#fffafa,#fdf0f0aa 45%,transparent);filter:blur(10px)}
 .vial-arc img{position:absolute;height:auto;filter:drop-shadow(0 26px 24px #0e1a2b33);animation:vial-drift 9s ease-in-out infinite}
-.vial-arc img:nth-child(1){left:-2%;top:48%;width:26%;z-index:1;animation-delay:-1s}
-.vial-arc img:nth-child(2){left:9%;top:24%;width:34%;z-index:2;animation-delay:-4s;animation-duration:10s}
-.vial-arc img:nth-child(3){left:28%;top:8%;width:46%;z-index:4;animation-delay:-2s;animation-duration:11s}
-.vial-arc img:nth-child(4){left:52%;top:22%;width:38%;z-index:3;animation-delay:-6s}
-.vial-arc img:nth-child(5){left:74%;top:42%;width:32%;z-index:2;animation-delay:-3s;animation-duration:8s}
-.vial-arc img:nth-child(6){left:20%;top:56%;width:26%;z-index:5;animation-delay:-5s;animation-duration:10s}
-.vial-arc img:nth-child(7){left:58%;top:60%;width:25%;z-index:5;animation-delay:-7s}
+.vial-arc img:nth-child(1){left:0;top:50%;width:28%;z-index:1;animation-delay:-1s}
+.vial-arc img:nth-child(2){left:8%;top:22%;width:38%;z-index:2;animation-delay:-4s;animation-duration:10s}
+.vial-arc img:nth-child(3){left:28%;top:6%;width:50%;z-index:4;animation-delay:-2s;animation-duration:11s}
+.vial-arc img:nth-child(4){left:50%;top:20%;width:42%;z-index:3;animation-delay:-6s}
+.vial-arc img:nth-child(5){left:70%;top:42%;width:30%;z-index:2;animation-delay:-3s;animation-duration:8s}
+.vial-arc img:nth-child(6){left:18%;top:54%;width:28%;z-index:5;animation-delay:-5s;animation-duration:10s}
+.vial-arc img:nth-child(7){left:56%;top:58%;width:28%;z-index:5;animation-delay:-7s}
 @keyframes vial-drift{0%,100%{transform:translateY(0)}50%{transform:translateY(-16px)}}
 @media(prefers-reduced-motion:reduce){.vial-arc img{animation:none}}
 /* curated: product image above each link */
@@ -144,3 +144,6 @@ body:not(.js-motion) .walk-steps,body:not(.js-motion) .walk-skip{display:none}
 .vial-arc:before{inset:10% 0 0}
 .vial-arc img,.vial-arc img:nth-child(n){position:relative;left:auto;top:auto;flex:none;width:190px;margin:0 -58px}
 .vial-arc img:nth-child(odd){width:160px}.vial-arc img:nth-child(4){width:230px;z-index:6}}
+/* collection hero, mobile: five vials sized in vw so none is cropped */
+@media(max-width:800px){.vial-arc img:nth-child(n){margin:0 -5.5vw}.vial-arc img:nth-child(6),.vial-arc img:nth-child(7){display:none}.vial-arc img:nth-child(1),.vial-arc img:nth-child(5){width:26vw}.vial-arc img:nth-child(2),.vial-arc img:nth-child(4){width:28vw;z-index:3}.vial-arc img:nth-child(3){width:36vw;z-index:4}}
+.vial-arc img{animation:none!important}
