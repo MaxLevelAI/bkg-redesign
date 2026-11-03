@@ -13,7 +13,27 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "ARA-290",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "This material is commonly referenced in research exploring areas such as:",
+      "• Facilitates analysis of the specific activation of the erythropoietin-receptor/CD131 heterocomplex without stimulating erythropoiesis.",
+      "• Supports investigation into the inhibition of pro-inflammatory cytokine production, specifically TNF-α and IL-6, within macrophage assays.",
+      "• Enables research on the reduction of distal-fiber density loss and the promotion of small nerve fiber repair in nerve injury models.",
+      "• Useful for evaluating JAK2-STAT5 pathway-mediated cellular protection against oxidative stress and ischemic-reperfusion injury.",
+      "All references are presented for informational purposes within a research setting.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only.",
+      "Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "bpc-157-10mg",
@@ -31,12 +51,29 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "BPC-157",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "This material is commonly referenced in research exploring areas such as:",
+      "• Its potential role in supporting tissue repair and cellular integrity",
+      "Research has focused on its effects across multiple biological systems, including musculoskeletal, gastrointestinal, vascular, and nervous tissue. BPC-157 appears to influence angiogenesis, modulate inflammatory pathways, and promote fibroblast migration and collagen production—key components of the wound healing process. Its stability in gastric environments and broad activity profile make it a compelling subject in studies exploring recovery from injury, inflammation, and oxidative stress across a range of tissues.",
+      "All references are presented for informational purposes within a research setting.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "bpc-157-500mgc-capsules",
     "name": "BPC-157 500mgc Capsules",
-    "price": 138.0,
+    "price": 135.0,
     "image": "assets/bpc-157-500mgc-capsules.webp",
     "url": "https://www.bkgperformancepartners.com/product/bpc-157-500mgc-capsules",
     "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac284fbd46e0009ca385816_BPC-157%20Caps%20No%20Back.png",
@@ -44,25 +81,51 @@
       "Repair"
     ],
     "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "",
+    "intro": [
+      "BPC-157 is a synthetic peptide derived from a protein found in human gastric juice and is widely studied for its potential role in supporting tissue repair and cellular integrity. Research has focused on its effects across multiple biological systems, including musculoskeletal, gastrointestinal, vascular, and nervous tissue. BPC-157 appears to influence angiogenesis, modulate inflammatory pathways, and promote fibroblast migration and collagen production—key components of the wound healing process. Its stability in gastric environments and broad activity profile make it a compelling subject in studies exploring recovery from injury, inflammation, and oxidative stress across a range of tissues."
+    ],
+    "context": [],
+    "disclaimer": []
   },
   {
     "slug": "cagrilintide-5mg",
     "name": "Cagrilintide 10mg",
-    "price": 94.0,
+    "price": 95.0,
     "image": "assets/cagrilintide-5mg.webp",
     "url": "https://www.bkgperformancepartners.com/product/cagrilintide-5mg",
     "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac2883338ec69acfa77e22d_Cagrilintide%2010mg%20No%20Back.png",
     "categories": [
       "Reset"
     ],
-    "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-11-03",
+    "label": "Cagrilintide",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "Cagrilintide is a synthetic peptide analog of the hormone amylin, studied for its potential to support appetite regulation and weight management. As an amylin receptor agonist, Cagrilintide has been investigated for its ability to slow gastric emptying, promote satiety, and reduce overall food intake in research models. Studies have explored its impact on body weight reduction, energy balance, and metabolic health, often in combination with GLP-1 receptor agonists to enhance effects on weight loss. Its use in research provides insight into the role of amylin signaling in appetite control and offers opportunities to better understand mechanisms that may influence obesity and related metabolic conditions.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only.",
+      "Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "cjc-1295-no-dac-5mg",
     "name": "CJC-1295 (No DAC) 5mg",
-    "price": 44.0,
+    "price": 45.0,
     "image": "assets/cjc-1295-no-dac-5mg.webp",
     "url": "https://www.bkgperformancepartners.com/product/cjc-1295-no-dac-5mg",
     "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac2880f9b6bc7fcc810b7bc_CJC-IPA%205-5mg%20No%20Back.png",
@@ -75,7 +138,21 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "CJC-1295 (No DAC)",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "CJC-1295 No DAC (without Drug Affinity Complex) is a synthetic peptide that functions as a growth hormone-releasing hormone (GHRH)analog, studied for its ability to stimulate the release of endogenous growth hormone (GH) in a pulsatile and physiologically supportive manner. Unlike its DAC-modified counterpart, CJC-1295 No DAC has a shorter half-life, allowing researchers to investigate more natural GH release patterns that closely mimic the body’s own rhythms. Studies have explored its impact on growth hormone and IGF-1 secretion, as well as potential roles in muscle development, cellular repair, fat metabolism, and overall anabolic signaling. Its use in research models allows for examination of growth hormone dynamics without the extended stimulation associated with long-acting analogs.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory researchpurposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will beused solely for research and development purposes.",
+      "The statements on this website have not been evaluated bythe FDA."
+    ]
   },
   {
     "slug": "cjc-1295-no-dac-ipamorelin-5-5mg",
@@ -87,8 +164,24 @@
     "categories": [
       "Amplify"
     ],
-    "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-11-03",
+    "label": "CJC-1295 (No DAC)/Ipamorelan",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols. Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "The CJC-1295 (No DAC) and Ipamorelin blend is a research combination of two peptides that work synergistically to enhance endogenous growth hormone release through complementary mechanisms. CJC-1295 (No DAC) acts as a growth hormone-releasing hormone (GHRH) analog, stimulating the pituitary to produce growth hormone in a pulsatile fashion with a relatively short half-life, promoting natural secretion patterns. Ipamorelin, a selective growth hormone secretagogue, mimics ghrelin’s action by binding to the ghrelin receptor, further amplifying growth hormone release while minimizing effects on appetite and cortisol. This blend is studied for its potential to optimize anabolic processes, support tissue repair, regulate metabolism, and improve muscle growth by leveraging the dual stimulation of the growth hormone axis without prolonged receptor activation.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption. By purchasing, you acknowledge that this material will be used solely for research and development purposes. The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "epithalon-20mg",
@@ -106,7 +199,21 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "Epithalon (also known as Epitalon) is a synthetic tetrapeptide studied for its potential role in regulating cellular aging and promoting longevity. Research has focused on its ability to influence telomerase activity, the enzyme responsible for maintaining telomere length at the ends of chromosomes, which is a critical factor in cellular senescence and genomic stability. By modulating telomerase, Epithalon may support chromosomal integrity and enhance cellular lifespan. Additionally, studies have explored its antioxidant properties, effects on circadian rhythm regulation, and potential to improve DNA repair mechanisms, making it a peptide of interest in aging research and the investigation of age-related diseases.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory researchpurposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will beused solely for research and development purposes.",
+      "The statements on this website have not been evaluated bythe FDA."
+    ]
   },
   {
     "slug": "ghk-cu-50mg",
@@ -118,8 +225,29 @@
     "categories": [
       "Refine"
     ],
-    "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-11-03",
+    "label": "GHK-Cu",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "GHK-Cu 50mg (Glycyl-L-Histidyl-L-Lysine Copper Complex) is a naturally occurring copper-binding tripeptide extensively studied for its role in tissue repair and wound healing processes. Research demonstrates that GHK-Cu can modulate gene expression related to collagen synthesis, angiogenesis, and antioxidant activity, contributing to potentially improved skin remodeling and anti-inflammatory effects. Its ability to bind copper ions is essential for activating enzymes involved in cellular repair and protection against oxidative damage. Due to these multifaceted biological actions, GHK-Cu is widely utilized in studies and research investigating skin regeneration, inflammation modulation, and cellular homeostasis across various tissue types.",
+      "All references are presented for informational purposes within a research setting.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only.",
+      "Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "bpc-157-tb-500-ghk-cu-10-10-50mg-glow",
@@ -131,8 +259,28 @@
     "categories": [
       "Restructure"
     ],
-    "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-11-03",
+    "label": "GLOW Blend",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "GLOW Blend is a multi-peptide research complex combining three of the most scientifically investigated regenerative peptides: BPC-157 (Body Protection Compound) – a gastric-derived peptide fragment known for its research value in angiogenesis and tissue regeneration, TB-500 (Thymosin Beta-4 Acetate) – a natural actin-binding peptide associated with cell migration and wound healing mechanisms, and GHK-Cu (Copper Tripeptide-1) – a naturally occurring tripeptide-copper complex linked to collagen synthesis, anti-inflammatory signaling, and cellular rejuvenation. Together, these compounds form a synergistic research formulation designed to model multi-pathway regeneration, cellular repair, and dermal recovery processes. The blend is intended for in-vitro and ex-vivo research only, enabling the study of wound healing, angiogenic response, collagen remodeling, and oxidative protection at the cellular level.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only.",
+      "Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "ipamorelin-10mg",
@@ -150,7 +298,21 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "Ipamorelin",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "Ipamorelin is a synthetic peptide that functions as a selective growth hormone secretagogue, stimulating the pituitary gland to release growth hormone by mimicking the action of ghrelin on the ghrelin receptor (GHS-R1a). Unlike some other secretagogues, ipamorelin is noted for its specificity, with minimal effects on appetite stimulation, cortisol, or prolactin levels. Research has explored ipamorelin’s potential to enhance anabolic processes, support tissue repair, improve metabolism, and regulate body composition through its promotion of endogenous growth hormone secretion. Its targeted mechanism makes it a valuable compound in studies focused on growth hormone dynamics and related physiological functions.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "ghk-cu-bpc-157-tb-500-kpv-10-10-10-50mg-klow",
@@ -168,7 +330,21 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "KLOW Blend",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "The KLOW Blend or GHK-Cu 50 mg, BPC-157 10mg, TB-500(Thymosin Beta-4) 10 mg, and MGF 10mg, combines four research peptides studied for their complementary roles in cellular health, recovery, and repair processes. GHK-Cu is noted for its ability to stimulate collagen synthesis,enhance antioxidant defenses, and support skin vitality. BPC-157 has been researched for promoting angiogenesis, modulating inflammation, and supporting gastrointestinal and musculoskeletal systems. TB-500 contributes by facilitating cell migration, reducing inflammatory responses, and aiding in tissue remodeling. MGF (Mechano Growth Factor) is studied for its role in muscle growth, repair, and regeneration. Together, these compounds are being investigated for their potential synergistic effects in accelerating tissue recovery, supporting muscle adaptation, and promoting overall resilience in experimental research settings.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "kpv-10mg",
@@ -180,8 +356,32 @@
     "categories": [
       "Repair"
     ],
-    "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-11-03",
+    "label": "KPV",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "This material is commonly referenced in research exploring areas such as:",
+      "• Its role in modulating inflammatory pathways",
+      "• Its role in maintaining cellular balance",
+      "• Its stability and targeted activity in studies related to immune response",
+      "All references are presented for informational purposes within a research setting.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only.",
+      "Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "melanotan-1-10mg",
@@ -199,7 +399,21 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "Melanotan I",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "Melanotan I is a synthetic peptide studied for its role in modulating skin pigmentation through melanocortin receptor activity. Research has highlighted its ability to stimulate melanogenesis, influencing melanin production in skin cells and contributing to pigmentation changes. Beyond pigmentation, Melanotan I is also investigated for its effects on energy balance, appetite regulation, and photoprotection mechanisms. Due to its broad physiological impact, Melanotan I remains of strong interest in studies exploring dermatological function, metabolic pathways, and melanocortin signaling.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "melanotan-2-10mg",
@@ -217,7 +431,21 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "Melanotan II",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "Melanotan II is a synthetic peptide studied for its role in modulating skin pigmentation and melanocortin receptor activity. Research has highlighted its ability to stimulate melanogenesis, influencing melanin production in skin cells, and its potential effects on appetite regulation,energy balance, and sexual function. Due to its broad physiological activity,Melanotan II remains of strong interest in studies exploring dermatological function, metabolic pathways, and melanocortin signaling.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "metabolic-blend-nad-100mg-mots-c-10mg-5-amino-1mq-10mg",
@@ -233,7 +461,21 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "All references are presented for informational purposes within a research setting.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "mots-c-10mg",
@@ -245,8 +487,28 @@
     "categories": [
       "Activate"
     ],
-    "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-11-03",
+    "label": "MOTS-C",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "MOTS-C (Mitochondrial Open Reading Frame of the 12S rRNA-c) is a mitochondrial-derived peptide studied for its potential role in regulating cellular metabolism and energy homeostasis. Research indicates that MOTS-C may influence metabolic pathways by modulating insulin sensitivity, enhancing glucose uptake, and promoting mitochondrial function. It is also being investigated for its effects on metabolic flexibility and protection against metabolic stress. Due to its unique origin and activity, MOTS-C is of growing interest in studies exploring mitochondrial biology, metabolic health, and age-related metabolic disorders.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only.",
+      "Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "mots-c-20mg",
@@ -258,8 +520,28 @@
     "categories": [
       "Activate"
     ],
-    "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-11-03",
+    "label": "MOTS-C",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "MOTS-C (Mitochondrial Open Reading Frame of the 12S rRNA-c) is a mitochondrial-derived peptide studied for its potential role in regulating cellular metabolism and energy homeostasis. Research indicates that MOTS-C may influence metabolic pathways by modulating insulin sensitivity, enhancing glucose uptake, and promoting mitochondrial function. It is also being investigated for its effects on metabolic flexibility and protection against metabolic stress. Due to its unique origin and activity, MOTS-C is of growing interest in studies exploring mitochondrial biology, metabolic health, and age-related metabolic disorders.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only.",
+      "Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "nad-500mg",
@@ -277,7 +559,21 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "NAD+",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "NAD+ 500mg (Nicotinamide Adenine Dinucleotide) is a vital coenzyme involved in numerous cellular processes, including energy metabolism, DNA repair, and regulation of enzymatic activities such as those of sirtuins and poly (ADP-ribose) polymerases (PARPs). Research explores NAD⁺ for its potential role in maintaining cellular health, supporting mitochondrial function, and influencing aging-related pathways. Fluctuations in NAD⁺ levels are studied in the context of metabolic regulation, oxidative stress response, and cellular signaling, making it a central focus in investigations of metabolic disorders, neurodegeneration, and longevity.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "nasal-spray-kit",
@@ -290,12 +586,22 @@
       "Optimize"
     ],
     "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "",
+    "intro": [
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "context": [],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "oxytocin-5mg",
     "name": "Oxytocin 10mg",
-    "price": 59.0,
+    "price": 55.0,
     "image": "assets/oxytocin-5mg.webp",
     "url": "https://www.bkgperformancepartners.com/product/oxytocin-5mg",
     "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac283f01f353525a3bdc8b6_Oxytocin%2010mg%20no%20back.png",
@@ -308,7 +614,20 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory researchpurposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will beused solely for research and development purposes.",
+      "The statements on this website have not been evaluated bythe FDA."
+    ]
   },
   {
     "slug": "pt-141-10mg",
@@ -320,8 +639,28 @@
     "categories": [
       "Activate"
     ],
-    "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-11-03",
+    "label": "PT-141",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "PT-141 (Bremelanotide) is a synthetic peptide studied for its role in modulating sexual function through melanocortin receptor activity. Research has highlighted its ability to influence sexual arousal, libido, and related neural signaling pathways. Beyond sexual function, PT-141 is also investigated for its potential effects on energy balance, mood regulation, and melanocortin receptor-mediated physiological processes. Due to its targeted activity, PT-141 remains of strong interest in studies exploring sexual health, neuroendocrine signaling, and melanocortin pathways.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only.",
+      "Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "research-water-10ml",
@@ -332,7 +671,13 @@
     "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28f9671a834fb82e7f909_Research%20Water%2010mg%20No%20Back.png",
     "categories": [],
     "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "",
+    "intro": [
+      "Research Water is a sterile solution containing 0.9% benzyl alcohol, commonly used in laboratory environments for reconstituting research peptides."
+    ],
+    "context": [],
+    "disclaimer": []
   },
   {
     "slug": "water-10ml",
@@ -345,7 +690,13 @@
       "Base"
     ],
     "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "",
+    "intro": [
+      "Research Water is a sterile solution containing 0.9% benzyl alcohol, commonly used in laboratory environments for reconstituting research peptides."
+    ],
+    "context": [],
+    "disclaimer": []
   },
   {
     "slug": "rta-glp-3-10mg",
@@ -363,7 +714,21 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "RTA GLP-3",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "RTA GLP-3 is a synthetic peptide designed for metabolic and endocrine research. It functions as a triple receptor agonist at the GIP, GLP-1, and glucagon receptors. Researchers commonly use it in studies of weight loss and metabolic peptides. Researchers investigate how the simultaneous activation of these pathways influences metabolic outcomes, glucose control, and overall energy balance in metabolic dysregulation and energy balance models.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "rta-glp-3-30mg-t04t4",
@@ -381,7 +746,21 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "RTA GLP-3",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "RTA GLP-3 is a synthetic peptide designed for metabolic and endocrine research. It functions as a triple receptor agonist at the GIP, GLP-1, and glucagon receptors. Researchers commonly use it in studies of weight loss and metabolic peptides. Researchers investigate how the simultaneous activation of these pathways influences metabolic outcomes, glucose control, and overall energy balance in metabolic dysregulation and energy balance models.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "selank-30mg",
@@ -399,12 +778,26 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "Selank",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "Selank is a synthetic peptide studied for its role in modulating stress response, cognitive function, and immune regulation. Research has highlighted its anxiolytic properties through effects on neurotransmitter systems, particularly serotonin and dopamine. Selank is also investigated for its potential to enhance memory, learning, and neuroprotection, as well as its influence on immune system activity. Due to its diverse physiological activity, Selank remains of strong interest in studies exploring cognitive performance and immune signaling.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will beused solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "sermorelin-10mg",
     "name": "Sermorelin 10mg",
-    "price": 96.0,
+    "price": 95.0,
     "image": "assets/sermorelin-10mg.webp",
     "url": "https://www.bkgperformancepartners.com/product/sermorelin-10mg",
     "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac286f1bbe68b6c3ba7b100_Sermorelin%2010mg%20No%20Back.png",
@@ -417,12 +810,26 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "Sermorelin",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "Sermorelin is a synthetic peptide studied for its role in stimulating the release of growth hormone (GH) from the pituitary gland.Research has highlighted its ability to activate the GH/IGF-1 axis, supporting muscle growth, tissue repair, and metabolic regulation. Beyond growth hormone stimulation, Sermorelin is also investigated for its potential effects on sleep quality, energy levels, and overall endocrine function. Due to its targeted physiological activity, Sermorelin remains of strong interest in studies exploring growth hormone signaling, musculoskeletal health, and metabolic pathways.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory researchpurposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will beused solely for research and development purposes.",
+      "The statements on this website have not been evaluated bythe FDA."
+    ]
   },
   {
     "slug": "sermorelin-5mg",
     "name": "Sermorelin 5mg",
-    "price": 66.0,
+    "price": 65.0,
     "image": "assets/sermorelin-5mg.webp",
     "url": "https://www.bkgperformancepartners.com/product/sermorelin-5mg",
     "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28709f4f71e27c25fc726_Sermorelin%205mg%20No%20Back.png",
@@ -435,12 +842,26 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "Sermorelin",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "Sermorelin is a synthetic peptide studied for its role in stimulating the release of growth hormone (GH) from the pituitary gland.Research has highlighted its ability to activate the GH/IGF-1 axis, supporting muscle growth, tissue repair, and metabolic regulation. Beyond growth hormone stimulation, Sermorelin is also investigated for its potential effects on sleep quality, energy levels, and overall endocrine function. Due to its targeted physiological activity, Sermorelin remains of strong interest in studies exploring growth hormone signaling, musculoskeletal health, and metabolic pathways.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory researchpurposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will beused solely for research and development purposes.",
+      "The statements on this website have not been evaluated bythe FDA."
+    ]
   },
   {
     "slug": "slu-pp-332-500mcg-capsules",
     "name": "SLU-PP-332 500mcg Capsules",
-    "price": 143.0,
+    "price": 140.0,
     "image": "assets/slu-pp-332-500mcg-capsules.webp",
     "url": "https://www.bkgperformancepartners.com/product/slu-pp-332-500mcg-capsules",
     "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac292a7ba0bd3fffaf9caf0_SLUPP%20332%20Caps%20No%20Back.png",
@@ -448,7 +869,18 @@
       "Repair"
     ],
     "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "",
+    "intro": [
+      "SLU-PP-332 (100 capsules) is a synthetic small molecule investigated for its potential role as a selective modulator of nuclear receptors involved in metabolic and inflammatory pathways. Research on SLU-PP-332 focuses on its ability to influence gene expression related to cellular metabolism, insulin sensitivity, and immune response. Due to its targeted mechanism of action, SLU-PP-332 is of interest in studies exploring treatments for metabolic disorders, inflammation, and related chronic conditions.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "context": [],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "ss-31-10mg",
@@ -466,7 +898,21 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "SS-31",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "SS-31 (Elamipretide) is a synthetic peptide studied for its role in mitochondrial function and cellular protection. Research has highlighted its ability to target and stabilize cardiolipin within the inner mitochondrial membrane, supporting energy production and reducing oxidative stress. SS-31 is also investigated for its potential effects on age-related decline, neuroprotection, and cardiovascular health. Due to its mitochondrial-targeted activity, SS-31 remains of strong interest in studies exploring cellular energy, oxidative balance, and degenerative conditions.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will beused solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "ss-31-50mg",
@@ -484,7 +930,21 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "SS-31",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "SS-31 (Elamipretide) is a synthetic peptide studied for its role in mitochondrial function and cellular protection. Research has highlighted its ability to target and stabilize cardiolipin within the inner mitochondrial membrane, supporting energy production and reducing oxidative stress. SS-31 is also investigated for its potential effects on age-related decline, neuroprotection, and cardiovascular health. Due to its mitochondrial-targeted activity, SS-31 remains of strong interest in studies exploring cellular energy, oxidative balance, and degenerative conditions.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will beused solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "tb-500-10mg",
@@ -496,8 +956,33 @@
     "categories": [
       "Repair"
     ],
-    "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "details": [
+      "Format: Lyophilized powder / solution",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-11-03",
+    "label": "TB-500",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "This material is commonly referenced in research exploring areas such as:",
+      "• Tissue regeneration mechanisms (tendons, ligaments, muscle)",
+      "• Angiogenesis (blood vessel formation) pathways",
+      "• Anti-fibrotic effects in organ damage models",
+      "• Modulation of inflammatory cytokines",
+      "• Actin cytoskeleton reorganization",
+      "All references are presented for informational purposes within a research setting.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only.",
+      "Not for human consumption. By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "tesamorelin-10mg",
@@ -515,12 +1000,26 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "Tesamorelin",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "Tesamorelin is a synthetic peptide analogue of growth hormone-releasing hormone (GHRH) studied for its ability to stimulate endogenous growth hormone secretion through activation of the pituitary gland.Research has focused on its potential to influence fat metabolism, particularly in reducing visceral adipose tissue, as well as its effects on metabolic regulation and body composition. Tesamorelin’s targeted mechanism makes it a valuable compound in studies exploring growth hormone dynamics, metabolic health,and related conditions involving adiposity.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "tesamorelin-ipamorelin-10-2mg",
     "name": "Tesamorelin/Ipamorelin 10/2mg",
-    "price": 99.0,
+    "price": 95.0,
     "image": "assets/tesamorelin-ipamorelin-10-2mg.webp",
     "url": "https://www.bkgperformancepartners.com/product/tesamorelin-ipamorelin-10-2mg",
     "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac2928c0d546bde924a0b0e_Tesa-%20Ipa%2010-2mg%20No%20Back.png",
@@ -533,12 +1032,26 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "Tesamorelin/Ipamorelin",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "Tesamorelin + Ipamorelin is a research peptide blend pairing a growth hormone–releasing hormone (GHRH) analog with a growth hormone–releasing peptide (GHRP). Together, these compounds are studied for their ability to promote pulsatile growth hormone secretion, increase IGF-1levels, and support research on muscle development, fat metabolism, and cellular repair. The combination allows researchers to investigate dual-pathway stimulation of growth hormone dynamics for a more comprehensive look at endocrine and metabolic function.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "tesofensine-500mcg-capsules",
     "name": "Tesofensine 500mcg Capsules",
-    "price": 149.0,
+    "price": 145.0,
     "image": "assets/tesofensine-500mcg-capsules.webp",
     "url": "https://www.bkgperformancepartners.com/product/tesofensine-500mcg-capsules",
     "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac28fdea17f672b4dc31447_Tesofensine%20500mcg%20No%20Back.png",
@@ -546,7 +1059,18 @@
       "Reset"
     ],
     "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "",
+    "intro": [
+      "Tesofensine is a synthetic research compound studied for its effects on appetite regulation, weight management, and metabolic function. Research has highlighted its ability to inhibit the reuptake of neurotransmitters such as dopamine, norepinephrine, and serotonin, influencing energy balance and food intake. Beyond metabolism, Tesofensine is also investigated for potential impacts on cardiovascular function and central nervous system signaling. Due to its broad physiological activity, Tesofensine remains of strong interest in studies exploring obesity, metabolic health, and neurochemical regulation.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "context": [],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "thymosin-alpha-1-10mg",
@@ -562,20 +1086,59 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "Thymosin Alpha 1",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "This material is commonly referenced in research exploring areas such as:",
+      "• Potent TLR9 and TLR2 agonist for investigating innate immune receptor signaling",
+      "• Supports analysis of T-lymphocyte maturation and Th1-type cytokine expression in assays",
+      "• Enables research on major histocompatibility complex class I molecule upregulation pathways",
+      "• Useful for evaluating NF-κB and MAPK-mediated modulation of lymphocyte-specific responses",
+      "All references are presented for informational purposes within a research setting.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "tirzepatide-10mg-glp-1",
     "name": "TZ GLP-2 10mg",
-    "price": 99.0,
+    "price": 95.0,
     "image": "assets/tirzepatide-10mg-glp-1.webp",
     "url": "https://www.bkgperformancepartners.com/product/tirzepatide-10mg-glp-1",
     "imageSource": "https://cdn.prod.website-files.com/69ebb5ef92062783bc1cf27f/6ac292bc92ef515c1570b5ce_TZ%20GLP-2%2010mg%20No%20Back.png",
     "categories": [
       "Reset"
     ],
-    "details": [],
-    "sourceRetrieved": "2026-10-17"
+    "details": [
+      "Format: Lyophilized powder",
+      "Purity: ≥ 99%",
+      "Storage: Store in a cool, dry environment",
+      "Handling: For laboratory research use only"
+    ],
+    "sourceRetrieved": "2026-11-03",
+    "label": "TZ GLP-2",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "TZ GLP-2 is a synthetic peptide studied for its unique dual agonist activity at both the glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) receptors. By engaging these two pathways simultaneously, it has been investigated for its ability to improve glycemic control, enhance insulin secretion, and regulate appetite and energy balance. Research interest also extends to its potential influence on lipid metabolism and weight management. Due to its combined receptor activity, GLP-2 TZ is of growing significance in studies addressing obesity, type 2 diabetes, and other metabolic disorders.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only.",
+      "Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "tz-glp-2-60mg",
@@ -593,7 +1156,21 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "TZ GLP-2",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "TZ GLP-2 is a synthetic peptide studied for its unique dual agonist activity at both the glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) receptors. By engaging these two pathways simultaneously, it has been investigated for its ability to improve glycemic control, enhance insulin secretion, and regulate appetite and energy balance. Research interest also extends to its potential influence on lipid metabolism and weight management. Due to its combined receptor activity, GLP-2 TZ is of growing significance in studies addressing obesity, type 2 diabetes, and other metabolic disorders.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will beused solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   },
   {
     "slug": "bpc-157-tb-500-5-5mg",
@@ -611,6 +1188,20 @@
       "Storage: Store in a cool, dry environment",
       "Handling: For laboratory research use only"
     ],
-    "sourceRetrieved": "2026-10-17"
+    "sourceRetrieved": "2026-11-03",
+    "label": "Wolverine Blend",
+    "intro": [
+      "A refined material selected for ongoing research and exploration within performance, recovery, and longevity protocols.",
+      "Sourced through trusted U.S. manufacturing partners and presented within a controlled, research-focused framework."
+    ],
+    "context": [
+      "Wolverine Blend is a research peptide combination bringing together two compounds extensively studied for their potential roles in supporting tissue repair and recovery. BPC-157 (Body Protection Compound-157), derived from a protein in gastric juice, has been investigated for its influence on angiogenesis, modulation of inflammatory pathways, and stimulation of fibroblast migration and collagen production. TB-500 (Thymosin Beta-4fragment) has been studied for its ability to enhance cell migration, regulate actin dynamics, and reduce inflammation—critical processes in tissue remodeling and repair. Together, these peptides are being explored for their complementary effects on musculoskeletal, vascular, and epithelial systems, with research interest centered on their potential to accelerate recovery, support wound healing, and improve tissue resilience in experimental settings.",
+      "At BKG Performance LAB, materials are selected based on quality, consistency, and alignment with ongoing areas of exploration in performance and longevity."
+    ],
+    "disclaimer": [
+      "This product is intended strictly for laboratory research purposes only. Not for human consumption.",
+      "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
+      "The statements on this website have not been evaluated by the FDA."
+    ]
   }
 ]
