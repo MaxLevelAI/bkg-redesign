@@ -731,6 +731,20 @@
     ]
   },
   {
+    "slug": "rta-glp-3-20mg",
+    "name": "RTA GLP-3 20mg",
+    "price": 215,
+    "image": "assets/product-image-pending.svg",
+    "url": "https://www.bkgperformancepartners.com/product/rta-glp-3-20mg",
+    "categories": [],
+    "details": [],
+    "label": "",
+    "intro": [],
+    "context": [],
+    "disclaimer": [],
+    "sourceRetrieved": "2026-11-08"
+  },
+  {
     "slug": "rta-glp-3-30mg-t04t4",
     "name": "RTA GLP-3 30mg",
     "price": 275.0,
@@ -793,6 +807,20 @@
       "By purchasing, you acknowledge that this material will beused solely for research and development purposes.",
       "The statements on this website have not been evaluated by the FDA."
     ]
+  },
+  {
+    "slug": "semax-10mg",
+    "name": "Semax 10mg",
+    "price": 65,
+    "image": "assets/product-image-pending.svg",
+    "url": "https://www.bkgperformancepartners.com/product/semax-10mg",
+    "categories": [],
+    "details": [],
+    "label": "",
+    "intro": [],
+    "context": [],
+    "disclaimer": [],
+    "sourceRetrieved": "2026-11-08"
   },
   {
     "slug": "sermorelin-10mg",
@@ -1015,6 +1043,20 @@
       "By purchasing, you acknowledge that this material will be used solely for research and development purposes.",
       "The statements on this website have not been evaluated by the FDA."
     ]
+  },
+  {
+    "slug": "tesamorelin-20mg",
+    "name": "Tesamorelin 20mg",
+    "price": 135,
+    "image": "assets/product-image-pending.svg",
+    "url": "https://www.bkgperformancepartners.com/product/tesamorelin-20mg",
+    "categories": [],
+    "details": [],
+    "label": "",
+    "intro": [],
+    "context": [],
+    "disclaimer": [],
+    "sourceRetrieved": "2026-11-08"
   },
   {
     "slug": "tesamorelin-ipamorelin-10-2mg",

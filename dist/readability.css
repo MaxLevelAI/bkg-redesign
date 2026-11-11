@@ -1,0 +1,23 @@
+
+/* Site-wide legibility */
+body{font-size:18px;line-height:1.6}
+h1,h2,h3,h4,h5,h6,h1 em,h2 em,.step-title,.pick strong{font-weight:700!important}
+h1,h2,h3,.step-title,.pick strong{font-family:Georgia,serif}
+h1,h2{line-height:1.05;letter-spacing:-.035em}
+p, li, label, input, select, textarea{font-size:18px!important;line-height:1.6}
+.eyebrow,.product-label,.product-type,.callout,.chips span,.catalog-status,.category-list button,.footer-links,.footer-bottom,.footer-legal,.pick em,.pick span:not(.eyebrow),.collection-footer,.collection-footer p,.walk-steps button,.walk-skip,.breadcrumb{font-size:15px!important;line-height:1.45}
+.btn,.text-link,.nav-links,.mobile-menu a{font-size:16px!important}
+.lab-opening p{font-size:20px!important;max-width:540px}.lab-opening .wrap{padding:50px 0}.lab-opening h1{font-size:clamp(64px,7vw,104px)}
+.section-head p,.subhero p,.research-notes p,.walk-chapter p,.assembly-detail p,.manifesto p{font-size:18px!important;max-width:580px}
+.research-notes h3{font-size:32px;font-weight:700}.research-notes .three-cols{gap:28px;margin-top:30px}.research-notes{padding:55px 0}.walk-chapter{width:min(430px,90vw)}
+.collection,.picks{padding:50px 0}.section-head{margin-bottom:25px}.manifesto{padding:55px 0}.section-head p{max-width:440px}.eyebrow{margin-bottom:14px}.actions{margin-top:20px}.pick-group+.pick-group{margin-top:34px}.pick{gap:7px;padding:18px}
+.catalog-layout{gap:22px;padding-top:25px}.catalog-main .product-grid{gap:20px 16px}.catalog-main .product-art{height:240px}.product-meta{padding:10px 0 0}.product-meta h3,.product-meta .price{font-size:17px!important}.product-type{margin-top:2px}.product-label{font-size:13px!important}.category-list button{padding:12px}.product-art img{height:92%;top:3%}
+/* Navigation */
+.brand img{width:clamp(210px,21vw,300px);height:auto}.nav{gap:16px}.nav-links{gap:15px}.nav-right{gap:0}.site-header .nav-right>.btn,.site-header [data-search]{display:none}.mobile-menu.open{max-height:calc(100dvh - 105px);overflow-y:auto}.mobile-menu a{padding:10px!important}
+@media(max-width:1650px){.nav-links{display:none}.menu-toggle{display:grid}.mobile-menu.open{display:flex;flex-direction:column;position:fixed;top:116px;left:0;right:0;padding:16px 32px;background:var(--cream);z-index:69;border-bottom:1px solid var(--line);box-shadow:0 20px 30px #0002}}
+/* Performance */
+.subhero.has-media.performance-hero{background:#050505;color:#fff}.performance-hero :is(h1,p,.breadcrumb){color:#fff}.performance-hero h1 em{color:#e5b4ac}.performance-hero .hero-media:before{background:#393939;opacity:.32}.performance-hero .hero-media:after{border-color:#c5b3aa99}.performance-hero .btn{background:#fff;border-color:#fff;color:#0e1a2b}.performance-hero .btn:hover{background:#eae7e3}
+/* New pages */
+.gallery-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}.gallery-thumb img{width:100%;aspect-ratio:4/3;object-fit:cover}.gallery-dialog img{width:100%;max-height:70vh;object-fit:contain}.gallery-dialog p{font-size:16px!important}.signup-section input{font-size:20px!important;min-height:68px;padding:20px}.signup-section form{gap:18px}.signup-section form .btn{margin-top:12px}.peptalk-hero .hero-media img{object-position:center}.fuel-media img{object-fit:contain;object-position:center;background:#101c2b}.fuel-story{padding:60px 0}.fuel-story>div:first-child{max-width:800px}.fuel-story p{margin-top:14px}.fuel-details{display:grid;grid-template-columns:repeat(3,1fr);gap:30px;margin-top:35px}.fuel-details article{border-top:1px solid var(--line);padding-top:20px}.fuel-details h3{font-size:27px}.fuel-coming{margin-top:28px!important}
+@media(max-width:800px){.brand img{width:min(250px,62vw)}.lab-opening h1{font-size:clamp(48px,10vw,78px)}.lab-opening p{font-size:19px!important}.catalog-main .product-art{height:210px}.catalog-main .product-grid{gap:20px 12px}.gallery-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.fuel-details{grid-template-columns:1fr;gap:18px}.fuel-story{padding:45px 0}.performance-hero .hero-media img{-webkit-mask-image:linear-gradient(180deg,#000 58%,transparent);mask-image:linear-gradient(180deg,#000 58%,transparent)}}
+@media(max-width:520px){.catalog-main .product-art{height:165px}.product-meta h3,.product-meta .price{font-size:15px!important}.gallery-grid{grid-template-columns:1fr 1fr}.eyebrow,.product-label{font-size:13px!important}}
